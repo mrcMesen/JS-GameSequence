@@ -1,5 +1,5 @@
 const btnEmpezar = document.getElementById("btnEmpezar");
-const ULTIMO_NIVEL = 2;
+const ULTIMO_NIVEL = 10;
 /* divs btns */
 const celeste = document.getElementById("celeste");
 const violeta = document.getElementById("violeta");
